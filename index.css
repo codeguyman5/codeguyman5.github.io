@@ -1,0 +1,70 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+td{
+    text-align: center;
+    height: 474px;
+}
+    
+#red{
+  color:rgb(255, 0, 0);
+  background-color: rgb(255, 167, 185);
+  font-size: 100px;
+  
+}
+#orange{
+    color:rgb(255, 123, 0);
+    background-color: rgb(255, 229, 180);
+    font-size: 100px;
+}
+#yellow{
+    color:rgb(196, 192, 4);
+    background-color: rgb(255, 254, 206);
+    font-size: 100px;
+}
+#green{
+    color:rgb(51, 255, 0);
+    background-color: rgb(166, 255, 173);
+    font-size: 100px;
+}
+#blue{
+    color:rgb(0, 38, 255);
+    background-color: #7388ff;
+    font-size: 100px;
+}
+#purple{
+    color:rgb(140, 0, 255);
+    background-color: rgb(209, 162, 253);
+    font-size: 100px;
+}
+#red:hover{
+    color: rgb(128, 2, 2);
+    background-color: red;
+    font-size: 100px;
+}
+#orange:hover{
+    color: rgb(160, 104, 0);
+    background-color: rgb(255, 166, 0);
+    font-size: 100px;
+}
+#yellow:hover{
+    color: rgb(145, 142, 0);
+    background-color: rgb(255, 251, 1);
+    font-size: 100px;
+}
+#green:hover{
+    color: rgb(0, 97, 8);
+    background-color: rgb(0, 204, 17);
+    font-size: 100px;
+}
+#blue:hover{
+    color: #001277;
+    background-color: #0026ff;
+    font-size: 100px;
+}
+#purple:hover{
+    color: rgb(54, 2, 102);
+    background-color: rgb(132, 0, 255);
+    font-size: 100px;
+}
